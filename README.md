@@ -18,6 +18,6 @@
 
 <div align="center">
   
-[![AxDSan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=louis-gale&bg_color=0D1117&color=45cc06&line=45cc06&point=FF6B6B&area=true&area_color=45cc06&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Louis' GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=louis-gale&bg_color=0D1117&color=45cc06&line=45cc06&point=FF6B6B&area=true&area_color=45cc06&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
